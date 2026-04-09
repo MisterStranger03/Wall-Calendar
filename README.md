@@ -1,6 +1,6 @@
 # Wall Calendar
 
-An interactive wall calendar web app built with **React 18 + Vite**, faithfully recreating the look and feel of a physical spiral-bound wall calendar — and extending it with modern digital features.
+An interactive wall calendar web app built with **React 18 + Vite**, faithfully recreating the look and feel of a physical spiral-bound wall calendar and extending it with modern digital features.
 
 ---
 
